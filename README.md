@@ -6,7 +6,7 @@
 
 测验按照如下要求进行：
 - 测验所接受的语言 Python 或 Go, 你可以选择任意库（包括但是不局限于 django 和 flask）。但是请正确填写 `requirements.txt` （或 `go.mod` 对于使用 Go），因为这会用于环境初始化。
-- 请独立完成。不要使用人工智能（包括但不局限于 ChatGPT、Claude、DeepSeek 与 Kimi等），这会导致测试结果不准确。
+- 请独立完成。不要使用人工智能（包括但不局限于 ChatGPT、Claude、DeepSeek 与 Kimi等），这会导致测验结果不准确。
 - 完成代码内容后可以请求你的督导者进行代码提交。
 
 ## 测验内容
